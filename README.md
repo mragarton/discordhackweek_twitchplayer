@@ -11,6 +11,7 @@
 - Nemokosch #9980
 # Marketing and Support
 - zzz#1996
+
 You will soon be able to invite this bot to your server without hosting it on your own!
 # Footnote
 Distributed under the MIT license. See `LICENSE` for more information.
