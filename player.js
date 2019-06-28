@@ -47,7 +47,7 @@ const c = {
 
     connection.playStream(find.url);
 
-    const embed = embedBuilder(cfg.prefix + 'playstream');
+    const embed = embedBuilder(cfg.prefix + 'play');
     embed.addField('❯ Currently playing', `[${channel}](https://twitch.com/${channel})`);
     embed.addField('❯ Disconnect', `\`${cfg.prefix}leave\``)
     msg.edit(embed).catch(_ => { });
