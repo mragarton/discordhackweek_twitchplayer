@@ -15,3 +15,8 @@
 You will soon be able to invite this bot to your server without hosting it on your own!
 # Footnote
 Distributed under the MIT license. See `LICENSE` for more information.
+
+
+![working example](https://cdn.discordapp.com/attachments/591593782332358677/594103025518510090/unknown.png)
+
+![voice connection](https://cdn.discordapp.com/attachments/591593782332358677/594103257010536461/unknown.png)
