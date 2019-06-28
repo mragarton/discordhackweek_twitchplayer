@@ -8,7 +8,7 @@
 > This bot was developed by the Karbon Dev. Team.
 # Coders
 - garton#8800
-- Nemokosch #9980
+- Nemokosch#9980
 # Marketing and Support
 - zzz#1996
 
