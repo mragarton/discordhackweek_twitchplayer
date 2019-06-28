@@ -1,7 +1,7 @@
 const cfg = {
   discord_bot_token: '',
   twitch_api_token: '',
-  default_embed_color: 0x00ff00,
+  default_embed_color: 0xfec732,
   prefix: 't.'
 };
 
